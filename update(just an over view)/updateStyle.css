@@ -1,0 +1,83 @@
+  
+
+
+
+
+
+
+.update {
+	  padding:14px 18px;
+	  color: white;
+	  border-radius: 10%;
+	  background-color: #f44336;
+	  border: none;
+	  margin-left: 40%;
+	  
+  }
+
+  .personalInfo a{
+	color: black;
+}
+
+
+
+  .update:hover{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	background-color: royalblue;
+}
+
+
+
+
+	
+
+	.research ul, .teaching ul, .publications ul{
+	
+		padding:12px;
+		margin-left: 5px
+	
+		
+	}
+
+		.para1 {
+			display: flex;
+			margin: 5% 45%;
+		}
+
+		
+	
+	#para1, #para2, #para3{
+		
+		margin-left: 10%;
+		margin-top: 15%;
+		padding:0;
+		
+		
+	}
+
+
+	#para1 li, #para2 li, #para3 li, .para1 li{
+		list-style-type: none;
+		
+	}
+		
+		#para1 li a, #para2 li a,
+		  #para3 li a, .para1 li a{
+		 text-decoration: none;
+		padding:0;
+		margin-bottom: 2%;
+		background-color: green;
+		padding: 12px;
+		border-radius: 5px;
+		margin-left: 5%;
+		text-align: center;
+		
+
+	}
+	.para1 a:hover{
+		background-color: red;
+	}
+	#para1 a:hover, #para2 a:hover, #para3 a:hover{
+		background-color: red;
+	}
+
